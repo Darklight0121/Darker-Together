@@ -17,3 +17,7 @@ Read `READ ME FIRST.txt` in the zip before playing.
 
 - Both players: the same Darkest Dungeon version (no beta branch), the same DLC, no other mods.
 - The mod only talks to your friend, directly over Steam's friend-to-friend connection.
+
+## Credits
+
+Made by Darklight0121, with Claude (Anthropic) writing the mod, the kit window and the tools.
