@@ -69,7 +69,8 @@ now, and every button explains itself when you rest the mouse on it.
    *More info*, then *Run anyway*.)
 3. With the game closed, press **Install mod**.
 4. Press **Start game**. One of you picks **Host** and presses **Start co-op**. Everyone else picks
-   **Guest**, types the host's Steam name and presses **Start co-op** (or uses **Join Game** in Steam).
+   **Guest** and presses **Start co-op**: it joins the friend who is hosting (type the host's Steam name
+   if more than one friend hosts), or use **Join Game** in Steam.
 5. Load your campaigns, put your heroes in the party, and embark together from the Hamlet.
 
 `READ ME FIRST.txt` in the zip explains everything in detail.
